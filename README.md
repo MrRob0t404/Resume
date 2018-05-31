@@ -8,7 +8,7 @@
 [Github](github.com/simongaviria)
 Mobile: 347.439.7229
 
-### EXPERIENCE
+## EXPERIENCE
 
 __TyroDev__
 Technical Lead
@@ -41,7 +41,7 @@ August 2016 - September 2017  
 * Modified HTML on media players to support captioning and transcripts
 
 
-### PROJECTS
+## PROJECTS
 
 __Amazon Alexa using Next Thing Co. C.H.I.P__
 August 2016
@@ -60,7 +60,7 @@ March 2018  
 * Led demo presentation
 
 
-### VOLUNTEER WORK
+## VOLUNTEER WORK
 
 __Flawless Hacks__
 April 2015 - April 2018
@@ -69,7 +69,7 @@ April 2015 - April 2018
 * Assisted attendees with troubleshooting their applications
 * Helped founders with daily operations
 
-### SKILLS
+## SKILLS
 
 * HTML/HTML
 * CSS/CSS
@@ -82,7 +82,7 @@ April 2015 - April 2018
 * React
 * SQL/PSEQUEL
 
-### EDUCATION 
+## EDUCATION 
 
 __CUNY Hunter College__
 Computer Science Major | Math Minor 
