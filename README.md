@@ -2,6 +2,8 @@
 
 ## FULL STACK  WEB  ENGINEER
 
+## Contact
+
 [Email](simongaviria1@gmail.com)
 [Personal Website](simongaviria.nyc)
 [LinkedIn](linkedin.com/in/simon-gaviria)
