@@ -41,7 +41,7 @@ Sept 2017 - Present
 
 ## RELEVANT EXPERIENCE
 
-__Teachers Assistant at TEALS __
+__Teachers Assistant at TEALS__
 August 2016
 
 * Executed lesson plans for class instruction and labs 
