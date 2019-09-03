@@ -12,25 +12,14 @@ Mobile: 347.439.7229
 
 ## EXPERIENCE
 
-__TyroDev__
-Technical Lead
-Mar 2018 - Apr 2018 
+__Peloton__
+Software Engineer
+Apr 2019 - Current
 
-* Planned and constructed a knowledge exchange website for novice developers
-* Implemented a LEAN web app using Javascript, ReactJS, SQL and Postgress
-* Led a team of four, enforcing code review and resolving arising GitHub conflicts
-* Tasked with selecting the optimal technologies to be used
-* Built an inline code editor implementing GitHub API to retrieve file contents
-
-__Coalition for Queens__
-Fellow
-Sept 2017 - Present
-
-* Enrolled in an intensive 9 month, Google-funded software engineering fellowship with a 9 % acceptance rate (out of 1500 + applicants)
-* Graduates are prepared with both technical and professional skills and have been hired as developers at leading companies such as 
-  Pinterest, JP Morgan, and Spotify
-* Gained hands-on experience in ReactJS, NodeJS, Git/GitHub, Data
-* Structures, Algorithms, APIs, and tech principles and culture via both team/individual projects, code reviews, and pair programming
+* Worked with mobile developers and TPM's to create and maintain test automation for digital, web and physical products
+* Worked alongside UI and Core development teams to understand test automation gaps and implement coverage
+* Worked with embedded systems team to test make testing an integral part of the software development process
+* Created and implemented test suites for Android, iOS, Tread and Bike teams for release products
 
 __2U, Inc.__
 Content Implementation
@@ -42,19 +31,26 @@ August 2016 - September 2017  
 * Implemented captioning on media players
 * Modified HTML on media players to support captioning and transcripts
 
+__Pursuit__
+Full Stack Engineer 
+Sept 2017 - Present
 
-## PROJECTS
+* Enrolled in an intensive 9 month, Google-funded software engineering fellowship with a 9% acceptance rate
+* Gained hands-on experience in ReactJS, NodeJS, Git/GitHub, data structures, Algorithms, APIs, and tech principles and culture via both team/individual projects, code reviews, and pair programming
 
-__Amazon Alexa using Next Thing Co. C.H.I.P__
+
+## RELEVANT EXPERIENCE
+
+__Teachers Assistant at TEALS __
 August 2016
 
-* Implemented custom skills using Python
-* Designed and manufactured device housing
-* Used Amazon's API to integrate Amazon's Alexa services
+* Executed lesson plans for class instruction and labs 
+* Guided students with troubleshooting their programs 
+* Help individuals understand abstract coding concepts
 
 
 __UltraVox__
-Demo Lead
+Demo Lead & Engineer 
 March 2018  
 
 * Won best presentation in C4Q's hack-a-thon which was judged by industry professionals from Flatiron Health
@@ -73,8 +69,8 @@ April 2015 - April 2018
 
 ## SKILLS
 
-* HTML/HTML
-* CSS/CSS
+* HTML/HTML5
+* CSS/CSS3
 * Javascript
 * p5
 * NODEJS
@@ -82,6 +78,7 @@ April 2015 - April 2018
 * Bootstrap
 * Experimenting with Python
 * React
+* React Native
 * SQL/PSEQUEL
 
 ## EDUCATION 
